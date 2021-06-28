@@ -224,6 +224,7 @@ img {
         font-size: 18px;
         line-height: 25px;
         display: inline-block;
+        white-space: nowrap;
     }
     
     .hero-inner__btn{
