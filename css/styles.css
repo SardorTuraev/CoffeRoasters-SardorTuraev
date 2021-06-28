@@ -223,6 +223,7 @@ img {
         font-weight: 900;
         font-size: 18px;
         line-height: 25px;
+        display: inline-block;
     }
     
     .hero-inner__btn{
